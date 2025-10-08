@@ -49,15 +49,10 @@ The project is designed with the following components:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/airscholar/e2e-data-engineering.git
+    git clone https://github.com/smartyash11/data-engineering-pipline.git
     ```
 
-2. Navigate to the project directory:
-    ```bash
-    cd e2e-data-engineering
-    ```
-
-3. Run Docker Compose to spin up the services:
+2. Run Docker Compose to spin up the services:
     ```bash
     docker-compose up
     ```
